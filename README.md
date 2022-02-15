@@ -14,7 +14,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/wvTMw09.jpg>
+<img src=https://pbs.twimg.com/profile_images/1356309191825231873/4jOl-USe_400x400.jpg>
 </p>
   <p align="center">
 <a href="https://github.com/zim-bot"><img title="Author-DripsMemes" src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
