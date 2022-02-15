@@ -1,10 +1,10 @@
 {
-    "name": "Queen Angella",
+    "name": "Itachi bot",
     "description": "Queen Angella - Whatsapp Bot",
-    "logo": "https://i.imgur.com/wvTMw09.jpg",
+    "logo": "https://pbs.twimg.com/profile_images/1356309191825231873/4jOl-USe_400x400.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/zim-bot/queen-angella",
-    "website":   "https://t.me/phaticusthiccy",
+    "website":   "https://wa.me/966568319347",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
